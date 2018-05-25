@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1527182970 source:e:\composants_perso\codeblocks\generateur_boites_revues\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"GeneBoiteRevues00.h"
+
+1527179366 e:\composants_perso\codeblocks\generateur_boites_revues\geneboiterevues00.h
+	<string>
+
+1527183144 source:e:\composants_perso\codeblocks\generateur_boites_revues\geneboiterevues00.cpp
+	<iostream>
+	"Openscad.h"
+	"GeneBoiteRevues00.h"
+
+1527180186 source:e:\composants_perso\codeblocks\generateur_boites_revues\openscad.cpp
+	<iostream>
+	<string>
+	"Openscad.h"
+
+1527178408 e:\composants_perso\codeblocks\generateur_boites_revues\openscad.h
+	<string>
+
+1526833118 source:e:\composants_perso\codeblocks\generateur_boites_revues\openscad_test.cpp
+	<iostream>
+	<windows.h>
+	"Openscad.h"
+
